@@ -1,0 +1,51 @@
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\bin\Debug\assignment.xml
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.frmMain.resources
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.Resources.resources
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.vbproj.GenerateResource.Cache
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.xml
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.pdb
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.frmKH.resources
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.frmDieuchinhKH.resources
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.frmCapnhatsanpham.resources
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.frmXemsanpham.resources
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.frmLoaisanpham.resources
+C:\Users\Teo\Downloads\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\Teo\Downloads\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\Teo\Downloads\assignment\assignment\obj\Debug\assignment.xml
+C:\Users\Teo\Downloads\assignment\assignment\obj\Debug\assignment.pdb
+F:\PT10302\DTDM\Assignment\assignment\assignment\bin\Debug\assignment.exe.config
+F:\PT10302\DTDM\Assignment\assignment\assignment\obj\Debug\assignment.exe
+F:\PT10302\DTDM\Assignment\assignment\assignment\obj\Debug\assignment.xml
+F:\PT10302\DTDM\Assignment\assignment\assignment\obj\Debug\assignment.pdb
+F:\PT10302\DTDM\Assignment\assignment\assignment\bin\Debug\assignment.exe
+F:\PT10302\DTDM\Assignment\assignment\assignment\bin\Debug\assignment.pdb
+F:\PT10302\DTDM\Assignment\assignment\assignment\bin\Debug\assignment.xml
+F:\PT10302\DTDM\Assignment\assignment\assignment\obj\Debug\assignment.frmCapnhatsanpham.resources
+F:\PT10302\DTDM\Assignment\assignment\assignment\obj\Debug\assignment.frmDieuchinhKH.resources
+F:\PT10302\DTDM\Assignment\assignment\assignment\obj\Debug\assignment.frmKH.resources
+F:\PT10302\DTDM\Assignment\assignment\assignment\obj\Debug\assignment.frmLoaisanpham.resources
+F:\PT10302\DTDM\Assignment\assignment\assignment\obj\Debug\assignment.frmMain.resources
+F:\PT10302\DTDM\Assignment\assignment\assignment\obj\Debug\assignment.frmXemsanpham.resources
+F:\PT10302\DTDM\Assignment\assignment\assignment\obj\Debug\assignment.Resources.resources
+F:\PT10302\DTDM\Assignment\assignment\assignment\obj\Debug\assignment.vbproj.GenerateResource.Cache
+F:\PT10302\DTDM\Assignment\assignment\assignment\bin\Debug\Database1.sdf
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\bin\Debug\assignment.exe.config
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\obj\Debug\assignment.exe
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\obj\Debug\assignment.xml
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\obj\Debug\assignment.pdb
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\obj\Debug\assignment.frmCapnhatsanpham.resources
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\obj\Debug\assignment.frmDieuchinhKH.resources
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\obj\Debug\assignment.frmKH.resources
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\obj\Debug\assignment.frmMain.resources
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\obj\Debug\assignment.frmXemsanpham.resources
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\obj\Debug\assignment.Resources.resources
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\obj\Debug\assignment.vbproj.GenerateResource.Cache
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\bin\Debug\Database1.sdf
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\bin\Debug\assignment.exe
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\bin\Debug\assignment.pdb
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\bin\Debug\assignment.xml
+F:\PT10302\DTDM\Assignment\assignment\assignment\assignment\obj\Debug\assignment.frmHoadon.resources
